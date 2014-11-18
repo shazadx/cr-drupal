@@ -1,0 +1,3 @@
+[submodule "sites/all/modules/custom/cr_countdown"]
+	path = sites/all/modules/custom/cr_countdown
+	url = git@github.com:shazadx/cr_countdown.git
