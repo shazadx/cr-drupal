@@ -1,0 +1,10 @@
+name = Core Feature
+description = Shared settings
+core = 7.x
+package = Comic Relief
+version = 7.x-1.0
+project = core_global
+dependencies[] = features
+dependencies[] = text
+features[features_api][] = api:2
+features[field_base][] = body

@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Content Type: Countdown feature.
+ */
+
+include_once 'type_countdown.features.inc';
